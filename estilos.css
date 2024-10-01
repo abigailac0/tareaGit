@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: lightcoral;
+    color: white;
+}
+
+h1{font-family: 'Courier New', Courier, monospace;
+color: brown;
+font-style: italic;
+}
+h2, h3{
+    color: black;
+}
+.datos {
+    color: black;
+}
+.boton {
+    background-color: darkcyan;
+    padding: 15px 32px;
+    text-align: center;
+}
+

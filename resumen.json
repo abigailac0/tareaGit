@@ -1,0 +1,10 @@
+{
+    "id" : 1,
+    "donador" : "Tigre de la rebaja",
+    "nit" : "555.145.245",
+    "ciudad" : "Pasto",
+    "direccion": "cra 23 # 12-25",
+    "telefono" :  "(602) 7299137",
+    "correo" : "servicioalcliente@trigedelareabaja.com",
+    "fechaAfiliacion" : "12-diciembre-2024"      
+}
